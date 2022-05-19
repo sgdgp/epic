@@ -1,0 +1,1 @@
+wget https://github.com/epic-benchmark/epic-benchmark.github.io/blob/main/data/full_dataset.json -P ./data/
